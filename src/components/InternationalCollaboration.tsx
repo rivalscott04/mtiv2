@@ -51,7 +51,7 @@ const partners = [
     country: "South Korea",
     type: "Joint Research",
     logo: "/snu.svg",
-    website: "https://www.snu.ac.id/",
+    website: "https://www.snu.ac.kr/",
   },
   {
     id: "kaist",
